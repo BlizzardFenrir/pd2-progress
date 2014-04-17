@@ -1,4 +1,4 @@
-pd2-progress
-============
+Payday 2 Progress Spreadsheet Generator
+=======================================
 
-Payday 2 mission progress spreadsheet generator
+A Google Spreadsheet generator to keep track of completed missions in Payday 2.
