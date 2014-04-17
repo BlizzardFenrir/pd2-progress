@@ -32,8 +32,8 @@ def main():
 
     # Generate spreadsheet csv files
     # Main sheet
-    print 'Writing data to \'pd2-progress.tsv\'...'
-    fmain = open('pd2-progress.tsv', 'w')
+    print 'Writing data to \'spreadsheet.txt\'...'
+    fmain = open('spreadsheet.txt', 'w')
     fmain.write('---------------------------------------------------------------------\n'\
                 'MAIN SHEET\n'\
                 'Copy everything below this line to the main sheet of the spreadsheet:\n'\
